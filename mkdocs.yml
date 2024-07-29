@@ -1,0 +1,11 @@
+site_name: "test-api-2"
+site_description: "API test"
+
+nav:
+  - Introduction: index.md
+  - API Reference:
+    - Overview: api.md
+    - Endpoints: endpoints.md
+
+plugins:
+  - techdocs-core
